@@ -1,0 +1,15 @@
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\bin\Debug\net6.0\07_MultiplicationTable.exe
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\bin\Debug\net6.0\07_MultiplicationTable.deps.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\bin\Debug\net6.0\07_MultiplicationTable.runtimeconfig.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\bin\Debug\net6.0\07_MultiplicationTable.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\bin\Debug\net6.0\07_MultiplicationTable.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\07_MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\07_MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\07_MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\07_MultiplicationTable.AssemblyInfo.cs
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\07_MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\07_MultiplicationTable.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\refint\07_MultiplicationTable.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\07_MultiplicationTable.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\07_MultiplicationTable.genruntimeconfig.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\07_MultiplicationTable\obj\Debug\net6.0\ref\07_MultiplicationTable.dll

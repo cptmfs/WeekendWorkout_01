@@ -1,0 +1,15 @@
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\bin\Debug\net6.0\10_TwoDimArray.exe
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\bin\Debug\net6.0\10_TwoDimArray.deps.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\bin\Debug\net6.0\10_TwoDimArray.runtimeconfig.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\bin\Debug\net6.0\10_TwoDimArray.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\bin\Debug\net6.0\10_TwoDimArray.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\10_TwoDimArray.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\10_TwoDimArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\10_TwoDimArray.AssemblyInfoInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\10_TwoDimArray.AssemblyInfo.cs
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\10_TwoDimArray.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\10_TwoDimArray.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\refint\10_TwoDimArray.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\10_TwoDimArray.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\10_TwoDimArray.genruntimeconfig.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\10_TwoDimArray\obj\Debug\net6.0\ref\10_TwoDimArray.dll

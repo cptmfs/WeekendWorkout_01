@@ -1,0 +1,15 @@
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\bin\Debug\net6.0\08_RandomGame.exe
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\bin\Debug\net6.0\08_RandomGame.deps.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\bin\Debug\net6.0\08_RandomGame.runtimeconfig.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\bin\Debug\net6.0\08_RandomGame.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\bin\Debug\net6.0\08_RandomGame.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\08_RandomGame.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\08_RandomGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\08_RandomGame.AssemblyInfoInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\08_RandomGame.AssemblyInfo.cs
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\08_RandomGame.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\08_RandomGame.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\refint\08_RandomGame.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\08_RandomGame.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\08_RandomGame.genruntimeconfig.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\08_RandomGame\obj\Debug\net6.0\ref\08_RandomGame.dll

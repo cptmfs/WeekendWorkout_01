@@ -1,0 +1,15 @@
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\bin\Debug\net6.0\01_SalaryCalculation.exe
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\bin\Debug\net6.0\01_SalaryCalculation.deps.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\bin\Debug\net6.0\01_SalaryCalculation.runtimeconfig.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\bin\Debug\net6.0\01_SalaryCalculation.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\bin\Debug\net6.0\01_SalaryCalculation.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\01_SalaryCalculation.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\01_SalaryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\01_SalaryCalculation.AssemblyInfoInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\01_SalaryCalculation.AssemblyInfo.cs
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\01_SalaryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\01_SalaryCalculation.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\refint\01_SalaryCalculation.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\01_SalaryCalculation.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\01_SalaryCalculation.genruntimeconfig.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\SalaryCalculation\obj\Debug\net6.0\ref\01_SalaryCalculation.dll

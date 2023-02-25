@@ -1,0 +1,15 @@
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\bin\Debug\net6.0\04_Average.exe
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\bin\Debug\net6.0\04_Average.deps.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\bin\Debug\net6.0\04_Average.runtimeconfig.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\bin\Debug\net6.0\04_Average.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\bin\Debug\net6.0\04_Average.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\04_Average.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\04_Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\04_Average.AssemblyInfoInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\04_Average.AssemblyInfo.cs
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\04_Average.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\04_Average.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\refint\04_Average.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\04_Average.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\04_Average.genruntimeconfig.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\04_Average\obj\Debug\net6.0\ref\04_Average.dll

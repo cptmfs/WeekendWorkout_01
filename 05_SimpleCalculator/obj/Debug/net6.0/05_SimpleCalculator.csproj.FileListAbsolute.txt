@@ -1,0 +1,15 @@
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\bin\Debug\net6.0\05_SimpleCalculator.exe
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\bin\Debug\net6.0\05_SimpleCalculator.deps.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\bin\Debug\net6.0\05_SimpleCalculator.runtimeconfig.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\bin\Debug\net6.0\05_SimpleCalculator.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\bin\Debug\net6.0\05_SimpleCalculator.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\05_SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\05_SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\05_SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\05_SimpleCalculator.AssemblyInfo.cs
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\05_SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\05_SimpleCalculator.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\refint\05_SimpleCalculator.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\05_SimpleCalculator.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\05_SimpleCalculator.genruntimeconfig.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\05_SimpleCalculator\obj\Debug\net6.0\ref\05_SimpleCalculator.dll

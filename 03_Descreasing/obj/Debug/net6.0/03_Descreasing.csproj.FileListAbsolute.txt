@@ -1,0 +1,15 @@
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\bin\Debug\net6.0\03_Descreasing.exe
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\bin\Debug\net6.0\03_Descreasing.deps.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\bin\Debug\net6.0\03_Descreasing.runtimeconfig.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\bin\Debug\net6.0\03_Descreasing.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\bin\Debug\net6.0\03_Descreasing.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\03_Descreasing.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\03_Descreasing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\03_Descreasing.AssemblyInfoInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\03_Descreasing.AssemblyInfo.cs
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\03_Descreasing.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\03_Descreasing.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\refint\03_Descreasing.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\03_Descreasing.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\03_Descreasing.genruntimeconfig.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\03_Descreasing\obj\Debug\net6.0\ref\03_Descreasing.dll

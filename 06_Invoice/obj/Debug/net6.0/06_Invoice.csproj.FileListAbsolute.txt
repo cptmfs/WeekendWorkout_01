@@ -1,0 +1,15 @@
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\06_Invoice.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\06_Invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\06_Invoice.AssemblyInfoInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\06_Invoice.AssemblyInfo.cs
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\06_Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\bin\Debug\net6.0\06_Invoice.exe
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\bin\Debug\net6.0\06_Invoice.deps.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\bin\Debug\net6.0\06_Invoice.runtimeconfig.json
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\bin\Debug\net6.0\06_Invoice.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\bin\Debug\net6.0\06_Invoice.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\06_Invoice.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\refint\06_Invoice.dll
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\06_Invoice.pdb
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\06_Invoice.genruntimeconfig.cache
+C:\Users\Kaptan\source\repos\WebDevoloper\4-UserIdentity\WeekendWorkout_01\06_Invoice\obj\Debug\net6.0\ref\06_Invoice.dll
