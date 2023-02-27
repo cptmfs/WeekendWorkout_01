@@ -25,7 +25,7 @@
                             Console.Write(" "+" "); // i 1 ve 6 dısında bir sayı geldiğinde , sadece j ==1 yada j == deger oldugunda yıldız yazdıracak ve diger durumlarda else satırına girip sadece bosluk atacak ekrana .
                         }
                     }
-                    
+                Console.WriteLine();
                 }
             }
             else
