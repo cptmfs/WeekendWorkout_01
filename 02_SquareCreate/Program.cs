@@ -12,20 +12,20 @@
 
             if (deger >= 1 && deger <= 10) // Koşul Kontrolü..
             {
-                for (int i = 1; i <= deger; i++)
+                for (int i = 1; i <= deger; i++) // satırlar 
                 {
-                    for (int j = 1; j <= deger; j++)
+                    for (int j = 1; j <= deger; j++) // kolonlar
                     {
                         if (i == 1 || i == deger || j == 1 || j == deger) // Burada yıldız şekli çizdirmek için kolon ve sutün olarak ilerlemesi için içiçe for döngüsü olusturup bu her iki döngüde koyacagım yıldız adedine göre kontrol saglıyorum..
                         {
-                            Console.Write(yildiz); // Diyelimki kullanıcı 6 degerini girdi , kosulumuzda i ve j 1 den baslıyor ve j degeri 6 degerine gelene kadar i == 1 kosulu saglandıgı icin Console.Write komutu oldugu icin yanyana 6 defa yıldız koyulacak ekrana sonra kosul saglanmadıgı için Console.WriteLine ' a düşüp alt satıra geçeceğiz.
+                            Console.Write(yildiz+" "); // Diyelimki kullanıcı 6 degerini girdi , kosulumuzda i ve j 1 den baslıyor ve j degeri 6 degerine gelene kadar i == 1 kosulu saglandıgı icin Console.Write komutu oldugu icin yanyana 6 defa yıldız koyulacak ekrana sonra kosul saglanmadıgı için Console.WriteLine ' a düşüp alt satıra geçeceğiz.
                         }
                         else
                         {
-                            Console.Write(" "); // i 1 ve 6 dısında bir sayı geldiğinde , sadece j ==1 yada j == deger oldugunda yıldız yazdıracak ve diger durumlarda else satırına girip sadece bosluk atacak ekrana .
+                            Console.Write(" "+" "); // i 1 ve 6 dısında bir sayı geldiğinde , sadece j ==1 yada j == deger oldugunda yıldız yazdıracak ve diger durumlarda else satırına girip sadece bosluk atacak ekrana .
                         }
                     }
-                    Console.WriteLine();
+                    
                 }
             }
             else
